@@ -267,7 +267,7 @@
           ariaEmail:'Correo', ariaPhone:'Teléfono',
           thanks:'Gracias por leer hasta el final ✨'
         },
-        footer: { text:'Miguel De La Torre — Auxiliar Administrativo · Las Palmas de Gran Canaria', credit:'Web creada por MaErGa' },
+        footer: { text:'Miguel De La Torre — Auxiliar Administrativo · Las Palmas de Gran Canaria', creditPrefix:'Web creada por ', creditName:'MaErGa' },
         backToTop: { label:'Volver arriba' }
       },
       en: {
@@ -342,7 +342,7 @@
           ariaEmail:'Email', ariaPhone:'Phone',
           thanks:'Thanks for reading all the way to the end ✨'
         },
-        footer: { text:'Miguel De La Torre — Administrative Assistant · Las Palmas de Gran Canaria', credit:'Website created by MaErGa' },
+        footer: { text:'Miguel De La Torre — Administrative Assistant · Las Palmas de Gran Canaria', creditPrefix:'Website created by ', creditName:'MaErGa' },
         backToTop: { label:'Back to top' }
       }
     };
